@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Ian luca\\Desktop\\githubDeRecuperatorioDeRedees\\RecuperatorioDeRedes\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EAEDBB8B-8F8F-F306-4741-C2F9E63FF03A}|Assembly-CSharp.csproj|c:\\users\\ian luca\\desktop\\githubderecuperatorioderedees\\recuperatorioderedes\\assets\\scripts\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EAEDBB8B-8F8F-F306-4741-C2F9E63FF03A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EAEDBB8B-8F8F-F306-4741-C2F9E63FF03A}|Assembly-CSharp.csproj|c:\\users\\ian luca\\desktop\\githubderecuperatorioderedees\\recuperatorioderedes\\assets\\scripts\\shoot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAEDBB8B-8F8F-F306-4741-C2F9E63FF03A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\shoot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAEDBB8B-8F8F-F306-4741-C2F9E63FF03A}|Assembly-CSharp.csproj|c:\\users\\ian luca\\desktop\\githubderecuperatorioderedees\\recuperatorioderedes\\assets\\scripts\\medikitcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAEDBB8B-8F8F-F306-4741-C2F9E63FF03A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\medikitcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAEDBB8B-8F8F-F306-4741-C2F9E63FF03A}|Assembly-CSharp.csproj|c:\\users\\ian luca\\desktop\\githubderecuperatorioderedees\\recuperatorioderedes\\assets\\scripts\\healplayercontact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAEDBB8B-8F8F-F306-4741-C2F9E63FF03A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\healplayercontact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +27,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Bullet.cs",
-              "DocumentMoniker": "C:\\Users\\Ian luca\\Desktop\\githubDeRecuperatorioDeRedees\\RecuperatorioDeRedes\\Assets\\scripts\\Bullet.cs",
-              "RelativeDocumentMoniker": "Assets\\scripts\\Bullet.cs",
-              "ToolTip": "C:\\Users\\Ian luca\\Desktop\\githubDeRecuperatorioDeRedees\\RecuperatorioDeRedes\\Assets\\scripts\\Bullet.cs",
-              "RelativeToolTip": "Assets\\scripts\\Bullet.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAABbAAAA",
+              "Title": "Shoot.cs",
+              "DocumentMoniker": "C:\\Users\\Ian luca\\Desktop\\githubDeRecuperatorioDeRedees\\RecuperatorioDeRedes\\Assets\\scripts\\Shoot.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\Shoot.cs",
+              "ToolTip": "C:\\Users\\Ian luca\\Desktop\\githubDeRecuperatorioDeRedees\\RecuperatorioDeRedes\\Assets\\scripts\\Shoot.cs",
+              "RelativeToolTip": "Assets\\scripts\\Shoot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAA5AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-16T01:53:55.791Z",
+              "WhenOpened": "2025-05-16T11:36:47.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MediKitController.cs",
+              "DocumentMoniker": "C:\\Users\\Ian luca\\Desktop\\githubDeRecuperatorioDeRedees\\RecuperatorioDeRedes\\Assets\\scripts\\MediKitController.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\MediKitController.cs",
+              "ToolTip": "C:\\Users\\Ian luca\\Desktop\\githubDeRecuperatorioDeRedees\\RecuperatorioDeRedes\\Assets\\scripts\\MediKitController.cs",
+              "RelativeToolTip": "Assets\\scripts\\MediKitController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwEAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T11:23:53.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HealPlayerContact.cs",
+              "DocumentMoniker": "C:\\Users\\Ian luca\\Desktop\\githubDeRecuperatorioDeRedees\\RecuperatorioDeRedes\\Assets\\scripts\\HealPlayerContact.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\HealPlayerContact.cs",
+              "ToolTip": "C:\\Users\\Ian luca\\Desktop\\githubDeRecuperatorioDeRedees\\RecuperatorioDeRedes\\Assets\\scripts\\HealPlayerContact.cs",
+              "RelativeToolTip": "Assets\\scripts\\HealPlayerContact.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T10:57:41.972Z",
               "EditorCaption": ""
             }
           ]

@@ -61,12 +61,15 @@
     <Compile Include="Assets\scripts\GlobalAudioManager.cs" />
     <Compile Include="Assets\scripts\Movement.cs" />
     <Compile Include="Assets\scripts\LifePlayerManager.cs" />
+    <Compile Include="Assets\scripts\MediKitAnimation.cs" />
     <Compile Include="Assets\scripts\BulletPool.cs" />
     <Compile Include="Assets\scripts\BulletFactory.cs" />
     <Compile Include="Assets\scripts\Dead.cs" />
+    <Compile Include="Assets\scripts\HealPlayerContact.cs" />
     <Compile Include="Assets\scripts\Bullet.cs" />
     <Compile Include="Assets\scripts\Shoot.cs" />
     <Compile Include="Assets\scripts\PlayerHitbox.cs" />
+    <Compile Include="Assets\scripts\MediKitController.cs" />
     <Compile Include="Assets\scripts\FirstPersonCamera.cs" />
     <Compile Include="Assets\scripts\SoundClass.cs" />
     <Compile Include="Assets\scripts\MusicBackground.cs" />

@@ -17,6 +17,25 @@ public class LifePlayerManager : MonoBehaviour
         Debug.Log("Vida inicial del jugador: " + vidaActual);
     }
 
+    void Update()
+    {
+        // Función de prueba: daño con P, curación con G
+        if (Input.GetKeyDown(KeyCode.P))
+        {
+            RestarVida(10);
+        }
+
+        if (Input.GetKeyDown(KeyCode.G))
+        {
+            SumarVida(10);
+        }
+
+        if (Input.GetKeyDown(KeyCode.H))
+        {
+            Debug.Log("Vida actual del jugador: " + vidaActual);
+        }
+    }
+
     public void RestarVida(int cantidad)
     {
         GlobalAudioManager.instance.PlaySFX("Damage");

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ian luca\\Desktop\\githubDeRecuperatorioDeRedees\\RecuperatorioDeRedes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EAEDBB8B-8F8F-F306-4741-C2F9E63FF03A}|Assembly-CSharp.csproj|c:\\users\\ian luca\\desktop\\githubderecuperatorioderedees\\recuperatorioderedes\\assets\\scripts\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAEDBB8B-8F8F-F306-4741-C2F9E63FF03A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Bullet.cs",
+              "DocumentMoniker": "C:\\Users\\Ian luca\\Desktop\\githubDeRecuperatorioDeRedees\\RecuperatorioDeRedes\\Assets\\scripts\\Bullet.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\Bullet.cs",
+              "ToolTip": "C:\\Users\\Ian luca\\Desktop\\githubDeRecuperatorioDeRedees\\RecuperatorioDeRedes\\Assets\\scripts\\Bullet.cs",
+              "RelativeToolTip": "Assets\\scripts\\Bullet.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAABbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T01:53:55.791Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

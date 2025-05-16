@@ -34,7 +34,7 @@ public class Bullet : MonoBehaviour
     void OnCollisionEnter(Collision collision)
     {
         // Solo desactiva si la colisión es con "Player" o "Mundo"
-        if (collision.gameObject.CompareTag("Player") || collision.gameObject.CompareTag("Mundo"))
+        if (collision.gameObject.CompareTag("Player") || collision.gameObject.CompareTag("mundo"))
         {
             Desactivar();
         }
